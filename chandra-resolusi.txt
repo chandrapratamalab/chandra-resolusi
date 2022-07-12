@@ -1,0 +1,3 @@
+CHANDRA RESOLUSI
+- konsisten belajar membuat website dengan html dan css (include framework/with framework) 
+- belajar javascript untuk backend setiap hari
